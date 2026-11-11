@@ -1,4 +1,4 @@
-# OpenStream
+دنا# OpenStream
 
 تطبيق أندرويد بلغة Kotlin (Jetpack Compose + Media3) مستوحى من وظائف وواجهة مشغّلات الوسائط مفتوحة المصدر.
 Clean-room: لا كود ولا أصول ولا نصوص منقولة.
